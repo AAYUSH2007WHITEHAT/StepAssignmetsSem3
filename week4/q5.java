@@ -1,3 +1,4 @@
+package week4;
 public class q5 {
     public int findMin(int[] nums) {
         int left = 0;

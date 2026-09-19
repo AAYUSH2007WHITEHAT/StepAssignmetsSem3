@@ -1,3 +1,4 @@
+package week4;
 public class q1 {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;

@@ -1,3 +1,4 @@
+package week4;
 public class q2 {
     public int maxSubArray(int[] nums) {
         int currentSum = nums[0];
